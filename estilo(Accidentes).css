@@ -124,13 +124,14 @@
 
 .cajas{
     position: relative;
-    bottom: 100px;
+    bottom: 150px;
     left: 40px;
+    right: 80px;
 
 }
 .line{
     position: relative;
-    bottom: 50px;
+    bottom: 100px;
     display: inline-block;
 }
 #line1{
@@ -164,10 +165,10 @@
     position: relative;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 40px;
-    padding: 20px;
+    padding: 0px;
     color: white;
     display: inline-block;
-    left: 1250px;
+    left: 1080px;
 }
 
 #espacio{
@@ -186,45 +187,142 @@
     left: 1660px;
     bottom: 180px;
 }
-.container{
-    width: 50%;
-    justify-content: center;
-    display: inline-block;
-}
+
 .countdown{
     color: white;
-    left: 30px;
-    
-    display: inline-block;
-}
-
-.final-sms{
+    left: 1400px;
+    bottom: 610px;
     position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-
+    font-size: 25px;
+}
+.countdown1{
     color: white;
+    left: 1400px;
+    bottom: 430px;
+    position: absolute;
+    font-size: 25px;
+}
+.countdown2{
+    color: white;
+    left: 1400px;
+    bottom: 250px;
+    position: absolute;
+    font-size: 25px;
+}
+.countdown3{
+    color: white;
+    left: 1400px;
+    bottom: 70px;
+    position: absolute;
+    font-size: 25px;
 }
 #days{
+    left: 1000 px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 40px;
-    padding: 20px;
+    font-size: 30px;
+    padding: 2px;
     color: white;
-    display: inline-block;
 }
+
 #hours{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     padding: 20px;
     color: white;
-    display: inline-block;
 }
 #minutes{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     padding: 20px;
     color: white;
-    display: inline-block;
+}
+
+#seconds{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+
+#days1{
+    left: 1000 px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 2px;
+    color: white;
+}
+
+#hours1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+#minutes1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+
+#seconds1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+#days2{
+    left: 1000 px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 2px;
+    color: white;
+}
+
+#hours2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+#minutes2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+
+#seconds2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+
+#days3{
+    left: 1000 px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 2px;
+    color: white;
+}
+
+#hours3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+#minutes3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
+}
+
+#seconds3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    color: white;
 }
